@@ -1,0 +1,2 @@
+# Daftar library tambahan yang dibutuhkan proyek.
+# Praktikum ini menggunakan library bawaan Python.
